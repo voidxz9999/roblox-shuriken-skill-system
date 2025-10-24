@@ -1,5 +1,5 @@
 --[[
-    Roblox Advanced Skill System (Single Script Version)
+    Roblox Advanced Skill System 
     ----------------------------------------------------
     Demonstrates:
     - Advanced CFrame math and physics
